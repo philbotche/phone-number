@@ -17,7 +17,7 @@ $nums = $num->generate_numbercall();
 ?>
 <?php if(empty($nums ) ): ?>
 
-    <p> vous n'avez pas selectionné de numero </p>
+    <p> vous n'avez pas selectionné de réseau </p>
 
 <?php else: ?>
 
